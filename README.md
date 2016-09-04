@@ -23,7 +23,7 @@ This project provides a full-stack web app development. App information will be 
 * [BitTiger Project: Mini AppStore With JAVA](https://www.bittiger.io/microproject/2Ln4gW4vs9xCRc5qG)
 
 ## License
-* See the [LICENSE]() file for license rights and limitations (MIT). 
+* See the [LICENSE](https://github.com/BitTigerInst/0607-Mini-App-Store/blob/master/License.md) file for license rights and limitations (MIT). 
 
 ## Project Information
 * category: full stack
